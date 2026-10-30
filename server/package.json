@@ -1,0 +1,1 @@
+{"name":"bbv-server","version":"1.0.0","private":true,"main":"index.js","scripts":{"dev":"node --watch index.js","start":"node index.js","test":"node engine.test.js"},"dependencies":{"basic-block-visualizer":"file:..","cors":"^2.8.5","express":"^4.19.2"}}
